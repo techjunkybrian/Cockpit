@@ -13,28 +13,28 @@
 
 # --- Installers ---
 - Arch
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Arch.sh | bash
+- - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Arch.sh | bash
 
 - CentOS
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-CentOS.sh | bash
+- - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-CentOS.sh | bash
 
 - Debian
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Debian.sh | bash
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Debian.sh | bash
 
 - Fedora
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Fedora.sh | bash
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Fedora.sh | bash
 
 - Red Hat
-sudo wget -O https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Red_Hat.sh-  | bash
+- sudo wget -O https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Red_Hat.sh-  | bash
 
 - OpenSUSE Enterprise
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-SUSE_Enterprise.sh | bash
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-SUSE_Enterprise.sh | bash
 
 - OpenSUSE Tumbleweed / Leap
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-openSUSE_Tumbleweed_Leap.sh | bash
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-openSUSE_Tumbleweed_Leap.sh | bash
 
 - Ubuntu
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Ubuntu.sh | bash
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Ubuntu.sh | bash
 
 
 # BEWARE!
