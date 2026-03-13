@@ -12,6 +12,7 @@
 - Cockpit uses the same system tooling you would use from the command line. You can switch back and forth between Cockpit and whatever else you like. Cockpit even has a built-in terminal, which is useful when you connect from a non-Linux device.
 
 # --- Installers ---
+- MAKE SURE YOUR SYSTEM HAS WGET INSTALLED AND SUPPORTED
 # Arch
 - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Arch.sh | bash
 
