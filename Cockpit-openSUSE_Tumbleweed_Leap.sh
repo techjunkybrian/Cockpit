@@ -1,5 +1,5 @@
 # Install cockpit
-zypper in cockpit
+zypper in cockpit -y
 
 # Enable cockpit
 systemctl enable --now cockpit.socket

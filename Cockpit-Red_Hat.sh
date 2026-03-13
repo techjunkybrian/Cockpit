@@ -4,7 +4,7 @@
 sudo subscription-manager repos --enable rhel-7-server-extras-rpms
 
 # Install Cockpit
-sudo yum install cockpit
+sudo yum install cockpit -y
 
 # Enable cockpit
 sudo systemctl enable --now cockpit.socket
