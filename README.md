@@ -12,28 +12,28 @@
 - Cockpit uses the same system tooling you would use from the command line. You can switch back and forth between Cockpit and whatever else you like. Cockpit even has a built-in terminal, which is useful when you connect from a non-Linux device.
 
 # --- Installers ---
-- Arch
-- - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Arch.sh | bash
+# Arch
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Arch.sh | bash
 
-- CentOS
-- - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-CentOS.sh | bash
+# CentOS
+- sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-CentOS.sh | bash
 
-- Debian
+# Debian
 - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Debian.sh | bash
 
-- Fedora
+# Fedora
 - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Fedora.sh | bash
 
-- Red Hat
+# Red Hat
 - sudo wget -O https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Red_Hat.sh-  | bash
 
-- OpenSUSE Enterprise
+# OpenSUSE Enterprise
 - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-SUSE_Enterprise.sh | bash
 
-- OpenSUSE Tumbleweed / Leap
+# OpenSUSE Tumbleweed / Leap
 - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-openSUSE_Tumbleweed_Leap.sh | bash
 
-- Ubuntu
+# Ubuntu
 - sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Ubuntu.sh | bash
 
 
