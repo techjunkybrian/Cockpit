@@ -2,10 +2,10 @@
 sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Arch.sh | bash
 
 # CentOS
-sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Fedora.sh | bash
+sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-CentOS.sh | bash
 
 # Debian
-sudo wget -O -  | bash
+sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Debian.sh | bash
 
 # Fedora
 sudo wget -O - https://raw.githubusercontent.com/techjunkybrian/Cockpit/refs/heads/main/Cockpit-Fedora.sh | bash
