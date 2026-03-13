@@ -12,4 +12,4 @@
 - Cockpit uses the same system tooling you would use from the command line. You can switch back and forth between Cockpit and whatever else you like. Cockpit even has a built-in terminal, which is useful when you connect from a non-Linux device.
 
 # BEWARE!
-I, TechJunkyBrian, am not responsible for broken or no longer working systems when you are using these scripts. The only thing I did was grab the installation instructions of Cockpit (see here: https://cockpit-project.org/running). If you screw something up with such simple script, thats on you!
+I, TechJunkyBrian, am not responsible for broken or no longer working systems when you are using these scripts. The only thing I did was grab the installation instructions of Cockpit (see here: https://cockpit-project.org/running) and put them in easily executable scripts, nothing reworked recoded or anything. If you screw something up with such simple script, thats on you!
