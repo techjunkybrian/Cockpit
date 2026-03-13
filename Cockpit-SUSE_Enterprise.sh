@@ -1,5 +1,5 @@
 # Install cockpit
-transactional-update pkg install -t pattern microos_cockpit
+transactional-update pkg install -t pattern microos_cockpit -y
 
 # Enable cockpit socket
 systemctl enable --now cockpit.socket

@@ -1,5 +1,5 @@
 # Install Cockpit
-sudo dnf install cockpit
+sudo dnf install cockpit -y
 
 # Enable cockpit
 sudo systemctl enable --now cockpit.socket

@@ -1,5 +1,5 @@
 # Install cockpit
-sudo pacman -S cockpit
+sudo pacman -S cockpit -y
 # If the above command fails (message  “database file for … does not exist”), please run "sudo pacman -Syu" and repeat the step
 
 # Enable cockpit

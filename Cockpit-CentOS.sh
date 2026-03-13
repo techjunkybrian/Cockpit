@@ -1,7 +1,7 @@
 # This script is for CentOS 7 and later
 
 # Install cockpit
-sudo yum install cockpit
+sudo yum install cockpit -y
 
 # Enable cockpit
 sudo systemctl enable --now cockpit.socket
